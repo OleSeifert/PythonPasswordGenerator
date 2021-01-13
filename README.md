@@ -5,3 +5,4 @@ Des Weiteren habe ich eine kleine Funktion für zsh geschrieben, man im Terminal
 Das Ganze soll einfach mein Problem lösen, der Passwortgenerator meines Passwortmanagers nur maximal 40 Zeichen generieren kann.
 
 Man muss die Funktion einfach nur in seiner .zshrc Datei speichern und den Weg zum Directory, in dem die Datei liegt, angeben.
+Anschließend sollte man noch den Weg zu seinem Standarddirectory (z.B. Desktop) angeben, sodass der Befehl dort wieder endet und man normal weiterarbeiten kann.
